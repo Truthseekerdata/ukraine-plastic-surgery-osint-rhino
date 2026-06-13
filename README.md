@@ -76,3 +76,5 @@
 * **[UA]** Відповідно до законодавства про захист персональних даних, тексти повідомлень та особисті ідентифікатори реальних пацієнтів були повністю анонімізовані або замінені маркерами `[REDACTED]`. Цей репозиторій містить виключно цифрові сліди та метадані автоматизованих акаунтів (ботів), а також діяльність публічних осіб, що є доказовою базою недобросовісної комерційної діяльності та порушення антимонопольного законодавства.
 * **[EN]** All real patient data, medical descriptions, and private citizen IDs have been completely stripped and replaced with `[REDACTED]` markers to comply with GDPR and local privacy laws. Only structural bot network meta-data, public admin actions, and cartel operational logs are retained as forensic evidence for investigative journalism and anti-monopoly analysis.
 
+
+> ⚠️ **Дзеркало розслідування:** Якщо цю сторінку буде заблоковано, повний текст лонгріду з усіма аналітичними висновками завжди доступний без цензури на Substack: https://open.substack.com/pub/ukraineplasticsurgeryosint/p/osint-rhino_ukrr-2026?r=8lcux7&utm_campaign=post-expanded-share&utm_medium=web
